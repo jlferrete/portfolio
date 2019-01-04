@@ -242,3 +242,29 @@ footer .contacto .formulario .boton {
 footer .contacto .formulario .boton:hover {
 	background: #387bea;
 }
+
+footer .redes-sociales {
+	background: #1e2b38;
+	padding: 60px 0;
+}
+
+footer .redes-sociales .contenedor {
+	display: flex;
+	justify-content: center;
+}
+
+footer .redes-sociales a {
+	color: #fff;
+	text-align: center;
+	width: 100px;
+	display: block;
+	padding: 15px 0;
+	border-radius: 3px;
+	font-size: 30px;
+	margin: 0 20px;
+}
+
+footer .redes-sociales .twitter:hover { background: #1da1f2; }
+footer .redes-sociales .facebook:hover { background: #3b5998; }
+footer .redes-sociales .github:hover { background: #666666; }
+footer .redes-sociales .instagram:hover { background: #3f729b; }
